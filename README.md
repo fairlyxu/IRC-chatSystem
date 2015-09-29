@@ -1,4 +1,4 @@
-# IRC-
+# IRC-chatSystem
 IRC简单聊天系统  IRC simple chat system
     linux大型实验
 实验用C语言，socket网络编程，实现了群聊，私聊，注册登录，查看聊天记录等多个功能。
